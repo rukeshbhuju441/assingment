@@ -27,7 +27,7 @@ public class Question25 {
 
 		System.out.println("Student Name is:" + studentName);
 		System.out.println("MaxScore is: " + maxScore);
-		input.close();
+
 	}
 
 }
